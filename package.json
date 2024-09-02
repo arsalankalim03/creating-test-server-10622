@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalankalim03/creating-test-server-10622.git"
+  },
+  "author": "arsalan kalim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalankalim03/creating-test-server-10622/issues"
+  },
+  "homepage": "https://github.com/arsalankalim03/creating-test-server-10622#readme"
+}
