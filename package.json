@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arsalankalim03/creating-test-server-10622/issues"
   },
-  "homepage": "https://github.com/arsalankalim03/creating-test-server-10622#readme"
+  "homepage": "https://github.com/arsalankalim03/creating-test-server-10622#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
